@@ -1,0 +1,2 @@
+Для запуска откройте файл Uchet_dolzhnikov_TSJ.exe двойным щелчком.
+Кнопка Помощь должна показывать почту Ivalburashnikov@edu.hse.ru.
